@@ -1,0 +1,7 @@
+A11202013146
+-Cube -> component = Transform, Cube(Mesh Filter), Mesh Renderer, materials, lighting, probes, box collider
+-Sphere -> component = Transform, sphere(Mesh Filter), Mesh Renderer, materials, lighting, probes, sphere collider
+-Capsule -> component = Transform, Capsule(Mesh Filter), Mesh Renderer, materials, lighting, probes, Capsule collider
+-Cylinder -> component = Transform, Cylinder(Mesh Filter), Mesh Renderer, materials, lighting, probes, Capsule collider
+-Plane -> component = Transform, Plane(Mesh Filter), Mesh Renderer, materials, lighting, probes, Mesh collider
+-Quad -> component = Transform, Quad(Mesh Filter), Mesh Renderer, materials, lighting, probes, Mesh collider
